@@ -1,0 +1,6 @@
+{
+  "name": "NVK GLOBAL Enterprise Operations Platform",
+  "description": "An interactive, unified ERP workspace simulating Core HR, ATS Recruitment, Logistics TMS, Warehouse WMS, Financial Spend Controls, and Business Strategy planning with server-side AI evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
